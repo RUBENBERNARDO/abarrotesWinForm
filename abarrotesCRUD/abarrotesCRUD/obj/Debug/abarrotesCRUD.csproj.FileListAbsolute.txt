@@ -1,0 +1,13 @@
+C:\Users\reube\source\repos\abarrotesCRUD\abarrotesCRUD\bin\Debug\abarrotesCRUD.exe.config
+C:\Users\reube\source\repos\abarrotesCRUD\abarrotesCRUD\bin\Debug\abarrotesCRUD.exe
+C:\Users\reube\source\repos\abarrotesCRUD\abarrotesCRUD\bin\Debug\abarrotesCRUD.pdb
+C:\Users\reube\source\repos\abarrotesCRUD\abarrotesCRUD\obj\Debug\abarrotesCRUD.csproj.AssemblyReference.cache
+C:\Users\reube\source\repos\abarrotesCRUD\abarrotesCRUD\obj\Debug\abarrotesCRUD.csproj.SuggestedBindingRedirects.cache
+C:\Users\reube\source\repos\abarrotesCRUD\abarrotesCRUD\obj\Debug\abarrotesCRUD.Form1.resources
+C:\Users\reube\source\repos\abarrotesCRUD\abarrotesCRUD\obj\Debug\abarrotesCRUD.Properties.Resources.resources
+C:\Users\reube\source\repos\abarrotesCRUD\abarrotesCRUD\obj\Debug\abarrotesCRUD.csproj.GenerateResource.cache
+C:\Users\reube\source\repos\abarrotesCRUD\abarrotesCRUD\obj\Debug\abarrotesCRUD.csproj.CoreCompileInputs.cache
+C:\Users\reube\source\repos\abarrotesCRUD\abarrotesCRUD\obj\Debug\abarrotesCRUD.exe
+C:\Users\reube\source\repos\abarrotesCRUD\abarrotesCRUD\obj\Debug\abarrotesCRUD.pdb
+C:\Users\reube\source\repos\abarrotesCRUD\abarrotesCRUD\bin\Debug\MySql.Data.DLL
+C:\Users\reube\source\repos\abarrotesCRUD\abarrotesCRUD\obj\Debug\abarrotesCRUD.csproj.CopyComplete
